@@ -8,7 +8,7 @@ The agent needs to learn to jump when faced with obstacles using **neural networ
 ![Snail Jumber](SnailJumper.png)
 
 # Example of Learning curve
-![fitness plot](fitness_plot.png.png)
+![fitness plot](fitness_plot.png)
 
 # Contributors
 [Soroush Mehraban](https://github.com/SoroushMehraban)  
