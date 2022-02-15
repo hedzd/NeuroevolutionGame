@@ -11,5 +11,5 @@ The agent needs to learn to jump when faced with obstacles using **neural networ
 ![fitness plot](fitness_plot.png.png)
 
 # Contributors
-[Soroush Mehraban](https://github.com/SoroushMehraban)
+[Soroush Mehraban](https://github.com/SoroushMehraban)  
 Evolutionary Algorithm and neural network by [me](https://github.com/hedzd)
